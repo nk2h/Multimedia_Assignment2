@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9b39b0773356c064d935d9f99d5e7002
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fuelCollectedText: {instanceID: 0}
+  - heroLivesText: {instanceID: 0}
+  - distanceText: {instanceID: 0}
+  - gameOver: {fileID: 8300000, guid: 696a817e8d10d41c1a75223d3813bb11, type: 3}
+  - jump: {fileID: 8300000, guid: 6c852fb53f2be4961be24170dbca25df, type: 3}
+  - run: {fileID: 8300000, guid: 8dd2e59ff555e47468ea49af5a518343, type: 3}
+  - lazer: {fileID: 8300000, guid: 517d8d453c4d149cab481adae24ed7f1, type: 3}
+  - fuelCanCollected: {fileID: 8300000, guid: 01fca8e552af9448f9f65d4523736ad0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
